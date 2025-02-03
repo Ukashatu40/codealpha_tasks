@@ -1,0 +1,28 @@
+/* Sidebar default style */
+nav#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #343a40;
+    color: white;
+    overflow-y: auto;
+    transition: left 0.3s ease; /* Smooth transition for toggling */
+}
+
+/* Sidebar collapsed style */
+nav#sidebar.collapsed {
+    left: -250px !important; /* Shift sidebar off-screen */
+}
+
+/* Content default style */
+div#content {
+    margin-left: 250px;
+    transition: margin-left 0.3s ease;
+}
+
+/* Content when sidebar is collapsed */
+div#content.collapsed {
+    margin-left: 0 !important;
+}

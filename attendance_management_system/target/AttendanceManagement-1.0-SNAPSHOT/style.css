@@ -1,0 +1,23 @@
+#sidebar {
+    width: 250px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #343a40;
+    height: 100%;
+    transition: left 0.3s ease;
+    color: white;
+}
+
+#sidebar.collapsed {
+    left: -250px;
+}
+
+#content {
+    margin-left: 250px;
+    transition: margin-left 0.3s ease;
+}
+
+#content.collapsed {
+    margin-left: 0;
+}

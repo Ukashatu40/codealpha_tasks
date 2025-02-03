@@ -1,0 +1,15 @@
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/dao/AdminDAO.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/model/Student.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/db/TestDB.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/ExportAttendanceServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/dao/StudentDAO.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/db/DBConnection.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/AttendanceServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/model/Admin.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/LoginServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/dao/AttendanceDAO.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/AttendanceStatsServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/StudentServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/model/Attendance.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/servlet/LogoutServlet.java
+/Users/apple/attendance_management_system/src/main/java/com/ukasha/db/TestConnection.java
